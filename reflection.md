@@ -5,3 +5,4 @@
 
 ## What I'm Still Confused About
 - Merge conflicts
+- Best practices for writing commit messages
